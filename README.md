@@ -1,5 +1,7 @@
 # Statistics-For-Machine-Learning
 
+Thinking in statistical way.
+
 
 
 ## 🔗 Links
